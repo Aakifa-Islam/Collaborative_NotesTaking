@@ -49,7 +49,7 @@ This shows the main notepad interface with multiple notes, the user list, and ac
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone <repository-url>
     cd collaborative-notepad
     ```
 2.  **Backend Setup**:
